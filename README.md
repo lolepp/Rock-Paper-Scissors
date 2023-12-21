@@ -6,3 +6,4 @@ Directory management:
 
     src
         RockPaperScissors.java
+    README.md
