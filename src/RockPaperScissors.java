@@ -83,5 +83,6 @@ public class RockPaperScissors {
                 running = false;
             }
         }
+        scanner.close();
     }
 }
